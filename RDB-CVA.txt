@@ -1,3 +1,6 @@
+Un revenu de base par la cotisation sur la valeur ajoutée
+=========================================================
+
 Introduction
 ------------
 
@@ -7,38 +10,42 @@ En effet, il y a une manière très simple de réduire le chômage : favoriser l
 Non. Pour mesurer l'avancée sociale aujourd'hui - dans une société où il y a de moins en moins d'emplois à plein temps, dû à l'utilisation massive des machines - ce n'est pas le chiffre du chômage qu'il faut regarder, mais ceux de la précarité : salaire médian/minimum/maximum, taux de pauvreté, revenu moyen d'un foyer, reste à vivre, etc...
 Le revenu de base permet justement d'améliorer cet aspect et de ne plus se préoccuper des chiffres du chômage.
 
-Un revenu de base pour une solidarité entre salariés et petites entreprises
----------------------------------------------------------------------------
+Un revenu de base suffisant pour vivre et financé par la cotisation sur la valeur ajoutée
+-----------------------------------------------------------------------------------------
 
 La mise en place d'un revenu de base varie beaucoup selon ses partisans. Le socle commun est la distribution d'un même revenu à toute la population sans conditions. Ce sont les principes d'universalité et d'inconditionnalité. Un autre critère, souvent avancé : il doit être suffisant. Suffisant pour vivre dignement sans l'apport d'un autre revenu et donc suffisant pour refuser un emploi. Le revenu de base, version "libérale", ne remplit pas cette condition, c'est le cas de celui expérimenté en Finlande. Le dernier critère que tout le monde ne partage pas, c'est la possibilité de cumuler avec un autre revenu. 
 
 Pour les plus libéraux, le revenu de base est juste une sorte de RMI amélioré, une simplification du système social qui n'augmente pas de manière significative les minima sociaux. Pour d'autres, c'est une révolution dans le rapport au travail, la fin de la pauvreté et du chômage. 
 
 Plusieurs arguments pour sa mise en place :
-- La déconnexion emploi / revenu est essentielle face au chômage systémique dû à la mécanisation et l'informatisation de la production
-- La simplification de notre système social
-- La fin de la stigmatisation des pauvres
-- Un meilleur rapport de force en faveur du travailleur sur le marché du travail
+
+* La déconnexion emploi / revenu est essentielle face au chômage systémique dû à la mécanisation et l'informatisation de la production
+* La simplification de notre système social
+* La fin de la stigmatisation des pauvres
+* Un meilleur rapport de force en faveur du travailleur sur le marché du travail
 
 Les contradicteurs avancent essentiellement :
-- L'oisiveté : pourquoi travailler si on a suffisamment d'argent pour vivre ?
-- L'impossibilité de le financer
-- Personne ne voudra faire les travaux les plus pénibles
-- La fin de la "valeur travail"
+
+* L'oisiveté : pourquoi travailler si on a suffisamment d'argent pour vivre ?
+* L'impossibilité de le financer
+* Personne ne voudra faire les travaux les plus pénibles
+* La fin de la "valeur travail"
 
 Les plus radicaux veulent la fin du capitalisme par la destruction du marché du travail en mettant en place un salaire unique à vie. Les moins ambitieux se contentent de l'équivalent du RMI/RSA par la mise en place d'un revenu de substitution pour les chômeurs, suffisamment élevé pour éviter le grande pauvreté qui les éloigne de l'emploi, mais pas assez élevé pour qu'ils s'en passent. 
 
-Je pense que le revenu de base ne doit pas être réduit aux miettes que les riches veulent bien céder aux plus pauvres pour éviter qu'ils ne se rebellent trop. Ce ne doit pas être non plus vu comme un cadeau fait par l'état ou une collectivité. Le terme "allocation" laisse penser ça. Pour moi, le revenu de base doit avoir un lien fort avec le travail et donc être financé par le travail. C'est pour cela que je préfère un financement par la cotisation. C'est d'ailleurs par la cotisation sur les salaires que va être mis en place le revenu de base finlandais (bien qu'il ne soit pas suffisant pour vivre). 
+Je pense que le revenu de base ne doit pas être réduit aux miettes que les riches veulent bien céder aux plus pauvres pour éviter qu'ils ne se rebellent trop. Ce ne doit pas être non plus vu comme un cadeau fait par l'état ou une collectivité. Le terme "allocation" laisse penser ça. Pour moi, le revenu de base doit avoir un lien fort avec le travail et donc être financé par le travail. C'est pour cela que je préfère un financement par la cotisation. C'est d'ailleurs par la cotisation sur les salaires que va être mis en place le revenu de base finlandais (bien qu'il ne soit pas suffisant pour vivre). [REF].
 
-Dans tous les cas, il me semble important de mettre le travail au centre de la mise en place d'un revenu de base. La question n'est pas tant la possibilité de mettre en place un revenu distribué à toute la population, que la remise à plat du travail dans notre société. C'est la possibilité pour tous de choisir son travail, sans la pression de ne pas avoir assez d'argent pour vivre. Et qui dit travail, dit souvent entreprise. Dans le débat pour un revenu de base, on oublie souvent l'entreprise, surtout les TPE/PME (moins de 500 employés), qui représentent près de 2/3 des emplois et plus de la moitié du PIB national. 
+Dans tous les cas, il me semble important de mettre le travail au centre de la mise en place d'un revenu de base. La question n'est pas tant la possibilité de mettre en place un revenu distribué à toute la population, que la remise à plat du travail dans notre société. C'est la possibilité pour tous de choisir son travail, sans la pression de ne pas avoir assez d'argent pour vivre. Et qui dit travail, dit souvent entreprise. Dans le débat pour un revenu de base, on oublie souvent l'entreprise, surtout les TPE/PME (moins de 500 employés),  qui représentent 99,8 % des entreprises, près de 2/3 des emplois et plus de la moitié du PIB national (http://www.lerucher.com/dossiers/1001/creation1.asp?from=preparer_creation).
+
 Pour les TPE, rémunérer le dirigeant est déjà une problématique, beaucoup ont du mal à se verser un revenu à la hauteur de leur travail. Certains ont besoin du complément de la prime d'activité (ex RSA activité). Pour les PME, la gestion des "ressources humaines" est un casse-tête, payer ses employés est un cauchemar. Un revenu de base pourrait bien leur simplifier la vie. 
 Je ne parle pas ici des grosses entreprises, pour qui le salaire est une variable d'ajustement, avec la possibilité de l'optimisation fiscale, de sur-rémunérer les dirigeants et les actionnaires. Ces entreprises sont des parasites pour notre système économique. Il serait temps que les dirigeants de TPE/PME ne soient plus du côté du MEDEF qui ne fait que défendre les intérêts des grands groupes, mais plutôt du côté des travailleurs de plus en plus précarisés.
 
 Ayant conscience que, dans le cadre de la mise en place d'un revenu de base, le bénéficiaire et l'entreprise sont autant concernés, je propose ici un modèle gagnant/gagnant qui permet à la fois de simplifier la gestion des TPE/PME comme des minima sociaux et de donner à chacun un revenu suffisant pour vivre. 
-J'insiste sur le fait qu'il doit être suffisant et donc au minimum au niveau du SMIC net, revalorisé comme le proposent la CGT ou Sud/Solidaires ou des partis politiques de la vraie gauche comme le NPA, le PC ou le PG. Les associations de chômeurs, comme AC!, proposent également que personne ne puisse avoir moins que le SMIC comme revenu, quelle que soit sa situation. 
+J'insiste sur le fait qu'il doit être suffisant et donc au minimum au niveau du SMIC net, revalorisé comme le proposent la CGT ou Sud/Solidaires ou des partis politiques de la vraie gauche comme le NPA, le PC ou le PG. Les associations de chômeurs, comme AC!, proposent également que personne ne puisse avoir moins que le SMIC comme revenu, quelle que soit sa situation. [REF].
 
 
-Je propose donc ici un revenu de base à 1250 € (soit 100 € de plus que le SMIC net aujourd'hui) pour une personne seule et jusqu'à 3250 euros pour une famille avec 3 enfants et plus (250 euros par enfant pour les trois premiers, soit presque deux fois plus que les allocations familiales actuelles). Un couple avec deux enfants aurait donc au minimum comme revenu : 2 x 1250 + 2 x 250 = 3000 euros. Aujourd'hui un couple au SMIC avec deux enfants a au maximum : 1150 * 2 (deux SMIC net) + 200 (allocations familiales de deux enfants de 14 ans et plus) + 450 (APL en Ile-de-France avec 2 personnes à charge) : 2950 euros.
+Je propose ici un revenu de base à 1300 € (soit 150 € de plus que le SMIC net aujourd'hui) par adulte et 260 euros par enfant, soit des allocations familiales revalorisées et allouées dès le premier enfant. Un couple avec deux enfants aurait au minimum comme revenu : 2 x 1300 + 2 x 260 = 3120 euros. Aujourd'hui un couple au SMIC avec deux enfants a au maximum : 1150 * 2 (deux SMIC net) + 200 (allocations familiales de deux enfants de 14 ans et plus) + 450 (APL en Ile-de-France avec 2 personnes à charge) : 2950 euros (https://www.service-public.fr/particuliers/vosdroits/F13213 et https://www.service-public.fr/particuliers/vosdroits/F12006).
+
 
 C'est donc un revenu suffisant pour vivre, que tout habitant d'une communauté (à l'échelle d'un pays, un état ou une région) doit toucher, de façon inconditionnelle et inaliénable. Les mineurs touchent également un revenu, certes moindre, mais qui peut être vu comme une revalorisation des allocations familiales et touché dès le premier enfant comme cela était pensé par la sécurité sociale lors de sa création. Donc, le revenu de base est distribué de la naissance à la mort. 
 
@@ -48,42 +55,193 @@ Financer un revenu de base par la cotisation sur la valeur ajoutée
 
 Le financement d'un revenu de base est une question primordiale. Il doit faire sens. Financer un revenu de base par les revenus du pétrole, comme en Alaska ou en Iran, n'a pas de sens. Financer un revenu de base par l'impôt sur le revenu ou une taxe d'habitation / taxe foncière (financement du RSA socle) pose problème car il doit forcément exister des personnes qui gagnent plus, qui habitent un grand logement ou qui possèdent de grandes propriétés pour concrétiser le revenu de base. Les personnes les plus riches, qui n'ont pas besoin de revenu de base (même si elles en bénéficient aussi car il doit être universel), payeront le plus pour le financer, ce qui peut entraîner des résistances. 
 
-Chacun recevra donc un revenu de base. Même s'il travaille dans une entreprise, il continuera à percevoir un revenu de base en plus d'un salaire proposé par l'entreprise. Mais comme le revenu de base correspond au SMIC, ce salaire complémentaire au revenu de base peut être compris entre 0 euro (pas de revenu complémentaire) et un revenu maximal. Il faut noter que si l'employeur ne propose pas de salaire complémentaire, l'attractivité économique d'un tel emploi est faible et donc le travailleur doit y trouver un autre interet qu'un apport financier, comme le font de nombreux bénévols dans des associations. Et à l'inverse, avec un salaire complémentaire, les travaux pénibles indispensables à la société peuvent être ainsi valorisés. 
+Pour faire sens, nous souhaitons financer le revenu de base par une cotisation sur la valeur ajoutée. C'est prendre réellement l'argent à la source de la production, chaque travailleur produisant une part de valeur ajoutée dans une entreprise. Nous décidons donc de prendre une partie de cette valeur ajoutée pour la distribuer de manière équitable à tout habitant de la naissance à la mort sous forme de revenu de base footnote:[La différence entre une cotisation sur la valeur ajouté et une taxe sur la valeur ajoutée (TVA) que tout le monde connaît est à la fois son mode de collecte et sa destination. La TVA est réglée par les particuliers à chaque fois qu'il achète un produit ou un service. C'est pour cela que c'est indiqué sur le ticket. Seulement, cette TVA n'est pas réglée directement à l'état, mais d’abord collecté par l'entreprise pour ensuite être versée à l'état. C'est également pour cela que les professionnels ne payent pas de TVA entre eux car c'est uniquement destinées aux consommateurs particuliers. En revanche, une cotisation sur la valeur ajoutée n'est pas payée par le particulier en consommant mais par l'entreprise qui crée de la valeur ajouté. De plus, la TVA en France est versée au budget de l'état et son utilisation varie en fonctions du vote du gouvernement pour des dépense divers (militaire, éducation, recherche ...). Une cotisation est versée à une caisse qui a une unique utilisation (budget fléché), ici le versement d'une revenu de base à toute la population. ]. Nous définissons la valeur ajoutée (VA) comme : valeur de la production - consommation intermédiaire. La règle en comptabilité consiste à inclure dans consommations intermédiaires les biens qui durent moins d'un an, par opposition à l'investissement (formation brute de capital fixe) qui représente l'achat de biens d'équipement durables (plus d'un an) (https://fr.wikipedia.org/wiki/Consommation_interm%C3%A9diaire). L'investissement n'est donc pas inclus dans l’assiette pour le calcul de la cotisation sur la valeur ajoutée, ce qui poussera les entreprises à investir pour diminuer leur cotisation. Ce qui est une bonne chose, car l'augmentation de l'investissement fera augmenter la valeur ajoutée futur et donc les cotisations. C'est amorcer une pompe.
 
-La mise en place d'un revenu maximum permet de limiter les inégalités tout en motivant à travailler dans une entreprise. Par exemple, si nous définissons un revenu maximum à 4 fois le revenu de base, le salaire complémentaire peut être compris entre 0 et 3 fois le revenu de base, soit avec un revenu de base à 1250 euros, entre 0 et 3750 euros. Soit un revenu total entre 1250 et 5000 euros. 
-Une famille pourra toucher maximum 10 000 euros par mois en revenu (2 x 4 x 1250 €).
+L'entreprise est gagnante dans l'affaire. Aujourd'hui, pour une entreprise, le salaire est une charge fixe. Quels que soient son chiffre d'affaire ou sa valeur ajoutée, elle doit payer l'employé et les cotisations liées. Avec notre proposition de revenu de base à 1300 euros, elle a le droit ne pas rémunérer l'employé mais a l'obligation de verser une Cotisation en fonction de la Valeur Ajoutée (CVA) générée par son activité. Ce n'est donc plus une charge fixe, mais une charge variable. C'est donc un soulagement pour une entreprise. C'est gagnant-gagnant : quoi qu'il arrive à l'entreprise le travailleur a un revenu de base et l'entreprise peut facilement recruter. Si l'entreprise a des périodes creuses, aucun problème, le travailleur bossera moins pour elle, et l'entreprise payera moins de cotisations. Quant au travailleur, il conservera son revenu de base. Une sécurité pour les deux. Attention, l'entreprise doit respecter ses obligations : paiement des cotisations, revenu maximum, droit du travail. Elle doit également toujours payer une cotisation sur le salaire versé en plus du revenu de base (salaire complémentaire). 
+
+Autre avantage important de la CVA : son assiette porte aussi bien sur la valeur produite par un travailleur humain que celle produite par un robot ou un logiciel. Quel que soit le taux d'automatisation de la production, nous pourrons toujours financer le revenu de base et une assurance maladie forte, contrairement à une cotisation sur le seul salaire.
+
+Chacun recevra donc un revenu de base. Même s'il travaille dans une entreprise, il continuera à percevoir un revenu de base en plus d'un salaire proposé par l'entreprise. Mais comme le revenu de base correspond au SMIC, ce salaire complémentaire au revenu de base peut être compris entre 0 euro (pas de revenu complémentaire) et un revenu maximal. Il faut noter que si l'employeur ne propose pas de salaire complémentaire, l'attractivité économique d'un tel emploi est faible et donc le travailleur doit y trouver un autre intérêt qu'un apport financier, comme le font de nombreux bénévole dans des associations. Et à l'inverse, avec un salaire complémentaire, les travaux pénibles indispensables à la société peuvent être ainsi valorisés. 
+
+La mise en place d'un revenu maximum permet de limiter les inégalités tout en motivant à travailler dans une entreprise. Par exemple, si nous définissons un revenu maximum à 4 fois le revenu de base, le salaire complémentaire peut être compris entre 0 et 3 fois le revenu de base, soit avec un revenu de base à 1250 euros, entre 0 et 3900 euros. Une famille avec deux enfants pourra toucher donc au maximum 10 920 euros par mois en salaire + revenu de base ( 2 x 4 x 1300 € + 2 x 260 €). Ce salaire maximum permet de limiter les inégalités tout en motivant à travailler dans une entreprise. Le salaire complémentaire permet également de valoriser les travaux pénibles indispensables à la société. Les très petites entreprises pourront également rémunérer les travailleurs non salariés (TNS) car ceux-ci toucheront également le revenu de base.
 
 Le montant du salaire complémentaire peut-être négocié directement avec un employeur. Etant donné que le travailleur a en théorie déjà de quoi vivre avec son revenu de base, le rapport de force est en sa faveur. Les accords de branche ou conventions collectives auront également toutes leurs place pour négocier collectivement les salaires complémentaires.
 
-L'entreprise est gagnante dans l'affaire. Aujourd'hui, pour une entreprise, le salaire est une charge fixe. Quels que soient son chiffre d'affaire ou sa valeur ajoutée, elle doit payer l'employé et les cotisations liées. Avec notre proposition de revenu de base à 1250 euros, elle a le droit ne pas rémunérer l'employé mais a l'obligation de verser une Cotisation en fonction de la Valeur Ajoutée (CVA) générée par son activité. Ce n'est donc plus une charge fixe, mais une charge variable. C'est donc un soulagement pour une entreprise. 
-
-C'est gagnant-gagnant : quoi qu'il en soit le travailleur a un revenu de base et l'entreprise peut facilement recruter. Si l'entreprise a des périodes creuses, aucun problème, le travailleur bossera moins pour elle, et l'entreprise payera moins de cotisations. Quant au travailleur, il conservera son revenu de base. Une sécurité pour les deux. Attention, l'entreprise doit respecter ses obligations : paiement des cotisations, revenu maximum, droit du travail. Elle doit également toujours payer une cotisation sur le salaire versé en plus du revenu de base (salaire complémentaire). 
-
-Autre avantage important de la CVA : son assiette porte aussi bien sur la valeur produite par un travailleur humain que celle produite par un robot ou un logiciel. Quel que soit le taux d'automatisation de la production, nous pourrons toujours financer le revenu de base et une assurance maladie forte, contrairement à une cotisation sur le seul salaire. Pour ceux qui doutent de la mise en place d'une CVA, il faut savoir qu'elle est déjà utilisée pour le financement des collectivités locales (http://www.collectivites-locales.gouv.fr/cotisation-sur-valeur-ajoutee-des-entreprises-cvae). Quant aux micro-entreprises, elle paye déjà un pourcentage de leur chiffre d'affaire en cotisations, version simplifiée d'une CVA mais en appliquant un forfait.
 
 Tout doit également être fait pour qu'un travailleur puisse trouver le travail qu'il souhaite : formations tout au long de la vie, suivi rapproché par un conseiller, ressources pour créer son activité (entreprise individuelle) ou pour créer une société. Pour une entreprise individuelle, l’entrepreneur devra verser la cotisation et touchera son revenu de base quels que soient ses revenus d'activité. Il pourra toucher un complément de revenu tiré de sa valeur ajoutée sans dépasser le revenu maximum.
 
 Nous devons garder une Sécurité Sociale. Je propose d'ailleurs qu'elle gère la distribution du revenu de base. C'est une institution à renforcer. Elle n'aura plus à gérer les revenus et salaires de remplacement, RSA et indemnités journalières pour faire simple. Elle pourra conserver le versement de certaines allocations spécifiques, comme pour les personnes en situation de handicap ou pour le logement. Son rôle sera donc un système de santé gratuit pour tous. D'autres institutions en charge d'un service public gratuit existeront : école, enseignement supérieur, transport, eau, électricité, télécommunications, etc. 
+
 Je propose également qu'une allocation chômage, en rapport avec le salaire complémentaire, soit conservée, sur le modèle existant, mais géré par la Sécurité Sociale. Le financement sera uniquement assuré par une cotisation sur ce salaire complémentaire. Un travailleur perdant son emploi (ou une partie de son emploi par la mise en temps partiel imposée) touchera une allocation supplémentaire à son revenu de base.
 
-Coté financement, admettons que nous distribuions 1250 euros à tous les majeurs et 250 euros pour chaque enfant. Avec 50 millions de majeurs et 10 millions de mineurs, ce revenu de base coûtera 780 milliards d'euros. Avec un PIB à 2000 milliards d'euros (c'est à dire la somme des valeurs ajoutées), cela fait 39 % du PIB. Il suffit donc de demander à toutes les entreprises près de 40 % de leur valeur ajoutée pour, à la fois, donner à tous les habitants d'une communauté un revenu suffisant pour vivre et, en même temps, soulager les TPE/PME sur le paiement des salaires. 
-À titre de comparaison, aujourd'hui, les salaires et cotisations représentent en moyenne 67 % de la VA totale. Avec un quart des entreprises qui y consacrent moins de 44 % de la VA. Très peu d'entreprises seront donc pénalisées par rapport à aujourd'hui et beaucoup y gagneront.
+Coté financement, je propose que la sécurité sociale, avec sa nouvelle branche "revenu de base", soit financée à hauteur de 40 % du PIB (c'est à dire la somme des valeurs ajoutées). Avec un PIB à 2 180 milliards d'euro (https://www.insee.fr/fr/statistiques/2121563), la branche "revenu de base" aura un budget de 872 milliards d'euro. Par comparaison, le budget du régime général de la sécurité est de 344 milliard en 2015 (https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_sociale_en_France#Le_budget_de_la_S.C3.A9curit.C3.A9_sociale). 
 
-De plus, avec les économies faites par l'état sur une partie du salaire des fonctionnaires et de différentes subventions et aides liées à l'emploi, une baisse de l’impôt sur les sociétés et de la TVA est envisageable : c'est autant d'argent récupéré pour les compléments de salaire et l'investissement. Les collectivités territoriales feront une économie sur le salaire des agents et les différentes aides à l'emploi qui pourront baisser. L'entreprise fera également des économies sur la rémunération des travailleurs non salariés (TNS) car ceux-ci toucheront également le revenu de base.
+Selon l'INSEE, au 1er Janvier 2015 (https://www.insee.fr/fr/statistiques/1913143), il y avait 14,8 millions d'enfant de moins de 18 ans et 51,7 millions d'adulte. En considérant que l'on donne 1/5 du revenu de base par enfant et qu'on consacre 872 milliards d'euro au financement du revenu de base, nous avons bien un revenu de base par adulte et par mois d'environ 1300 euros et 260 euros par enfant.
 
-La Sécurité sociale n'aura également plus à payer les différentes aides de la CAF (branche famille), ni la branche vieillesse qui représente la tranche basse des pensions, ni les indemnités journalières, ni une majeure partie des salaires des agents hospitaliers (branche maladie). Pour financer le reste, une cotisation sur les compléments de salaire sera demandée et, si besoin, une cotisation supplémentaire sur la VA. Elle pourrait représenter 10 % du PIB. 
+Les autres branches de la sécurité sociale seront financé en grande partie par un transfert sur le revenu de base (tous les revenus de remplacement inférieur à 1300 €). Pour le reste, une partie sera financé par les cotisations sur les salaire complémentaire selon les même taux qu'appliqué aujourd'hui, la taxe sur les drogues et produits causant des maladies, enfin, une cotisation supplémentaire sur la valeur ajouté. Le taux de cette cotisation reste à déterminer, mais ne devrait pas dépasser les 10 %. 
 
-Au final, la moitié de la VA totale, et donc du PIB, sera demandée sous forme de cotisation. À cela s’ajouteront les différents impôts et taxes déjà existants pour financer le fonctionnement de l'état, des collectivités, et des services public gratuits en général. Il pourraient représenter environ 25 % du PIB. Cela fait un total de prélèvements obligatoires de 75 % du PIB. 
-Si l'on prend aujourd'hui le paiement des salaires, des cotisations, des différentes taxes et impôts, il est fort probable qu'une entreprise et ses membres (salariés ou non) payent déjà plus de 75 % de la VA en prélèvements obligatoires, salaires et revenus des exploitants. Beaucoup y gagneront et récupéreront de l'argent afin d’investir. Ceux qui y perdront seront probablement les mauvais élèves : bas salaires, revenus des dirigeants exorbitants, dividendes importants, faibles investissements. Au final, une redistribution des richesses, favorable aussi bien aux travailleurs qu'aux entreprises.
+C'est donc en demandant une cotisation de 50 % sur la valeur ajouté qu'on peut financer une revenu de base d'un montant d'un SMIC valorisé, d'allocations pour les enfant bien supérieur que aujourd’hui et une assurance maladie financé à la hauteur des besoins. La question est maintenant : demander 50 % de la valeur ajoutée à une entreprise, est-ce bien raisonnable ?
 
-Pour résumer tout en simplifiant, le budget de la Sécurité Sociale sera de 1000 milliards d'euros et restera géré, comme aujourd'hui, indépendamment du budget de l'état. Son budget sera : 
-- 750 milliards pour le revenu de base, financés par la cotisation sur la valeur ajoutée (CVA).
-- 250 milliards pour les services publics de santé (reste de la Sécurité Sociale) financés par la CVA, la cotisation sur les salaires complémentaires (CSC), les taxes sur les drogues (alcool, tabac, cannabis légalisé, etc).
+D'un point de vu macro-économique, les salaires et cotisations représentaient en 2009 en moyenne 67 % de la VA totale. Avec un quart des entreprises qui y consacrent moins de 44 % de la VA ("Rapport INSEE : Partage de la valeur ajoutée, partage des profits et écarts de rémunérations en France"). La grosse majorité des TPE/PME seront donc favorisées. 
 
-Les services de l'état resteront financés à hauteur de 250 milliards par la TVA et les impôts sur les sociétés, sur le revenu et sur les fortunes et les successions.
+Conséquences micro-économique sur les entreprises
+-------------------------------------------------
 
-Restent 250 milliards pour les services publics locaux : impôts locaux dont taxes sur les mésusages et produits nuisibles à l’environnement. C'est deux fois plus qu’aujourd’hui, ce qui permettra de financer de nouveaux service publics gratuits et de décourager les mésusages. 
+Nous avons jusque présent montré comment financer une revenue de base à 1300 € par adulte et 260 € par enfant de manière macro-économique en regardant le PIB (somme des valeurs ajoutées) et comment prélever la cotisation aux entreprises. Maintenant nous allons étudier l'impacte de cette nouvelle cotisation sur les entreprises, c'est à dire une approche micro-économique. Pour cela, j'ai récupéré des vrais comptes de bilans d'entreprises de différentes tailles. Pour la suite; il faut donc quelques notions de comptabilités et est donc d'avantage destinées à des chefs d'entreprises. C'est l’occasion aussi de montrer à un entrepreneur de TPE/PME qu'il a tout à y gagner et que c'est très concret. 
 
-Sur un PIB de 2000 milliards (qui est la somme de la Valeur Ajoutée de toutes les entreprises), il reste donc 500 milliards net que les entreprises peuvent distribuer librement sous forme de revenus complémentaires, investissements, dividendes, etc. C'est moins qu'aujourd'hui, mais déjà beaucoup !
+La fiscalité liée à l'instauration du revenu de base va influer sur deux lignes comptables : "Salaires et traitements" et "Cotisation sociale". Ces deux lignes serons remplacées par une ventilation sur trois lignes comptables : "Salaire complémentaire", "Cotisation sur les salaires complémentaires" et "Cotisation sur la valeur ajoutée".
 
-Cette nouvelle fiscalité permet aux entreprises de mutualiser les risques sur le paiement des salaires et permet de financer un revenu de base de 1250 € / 250 €.
+Nous définition quelques règles de calculs. La valeur ajoutée est calculée comme le produit d'exploitation auquel nous soustrayons les différentes dotations (essentiellement l'amortissement), les achats, stocks et autres charges (externes et divers) (source : BGE). Nous soustrayons donc pas les impôts, taxes et versement assimilés actuels, les salaires et traitements, ainsi que les "charges sociales" (que nous appelons volontairement cotisations sociales).
+
+Nous considérons que le revenu des salariés ne chargerons pas : revenu de base + salaire complémentaire net devra être égal au salaire actuel net. Pour nos calculs, nous considérons le salaire net comme étant 80 % du salaire brut (après "charge patronale"). Les "charges patronales" s'élèvent à 40 % dur salaire brut (source : BGE). Nous gardons ce taux pour la cotisation sur les salaires complémentaires que nous conservons dans notre proposition afin de financer la sécurité sociale.
+
+Le nom des entreprises ont été changé pour garantir l’anonymat excepté pour la dernière entreprise (très connue). Les montants sont arrondis à trois chiffres significatifs et exprimés soit en k€ (milliers d'euro) ou M€ (millions d'euro).
+
+Cas pratique 1 : petite entreprise 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+L'Auberge du lac est un restaurant employant 15 salariés avec un capital social de 8000 € et un chiffre d'affaire en 2015 de 1,65 M€. En comptant la production immobilisée et la reprise sur amortissements et provisions le total des produits d'exploitation est de 1,72 M€. 
+
+Les charges d'exploitation s'élèvent à 1,61 M€ se décomposent ainsi :
+
+* Achats de matières premières : 480 k€
+* Variation de stock : 1 k€
+* Charges externes : 285 k€
+* Impôts, taxes et versement assimilés : 10 k€
+* Salaires et traitements : 477 k€
+* Cotisations sociales : 207 k€
+* Amortissement : 118 k€
+* Autres charges : 32 k€
+
+* Total : 1,61 M€
+
+Le restaurant emploi 15 salariés ce qui donne un salaire moyen brut de 31,8 k€, soit un salaire net moyen de 25,4 k€. Après l'instauration d'un revenu de base, le salaire complémentaire net moyen annuel sera de 9,8 k€ par salarié, soit au total 147 k€ de salaires net et donc 184 k€ de salaires brut. La cotisation sur le salaire complémentaire sera donc de 73,6 k€.
+
+La valeur ajoutée de l'entreprise est de : 1,72 M€ - 798 k€ - 118 k€ = 804 k€. L'entreprise devra donc une cotisation sur la valeur ajoutée 50 % de 402 k€. Reprenons nos "charges" après l’instauration d'un revenu de base :
+
+* Achats de matières premières : 480 k€
+* Variation de stock : 1 k€
+* Charges externes : 285 k€
+* Impôts, taxes et versement assimilés : 10 k€
+* Salaire complémentaire : 184 k€
+* Cotisation sur les salaires complémentaires : 73,6 k€
+* Cotisation sur la valeur ajoutée : 402 k€
+* Amortissement : 118 k€
+* Autres charges : 32 k€
+
+* Total : 1,59 M€
+
+Différence avant/après : 24,4 k€. L'entreprise est légèrement gagnante après l'instauration du revenu de base. Les salaires étant suffisant, elle pourra utiliser cet excédent pour investir ou embaucher un salarié supplémentaire.
+
+
+Cas pratique 2 : PME de 70 équivalents temps plein
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Louloue est une entreprise de location avec 70 équivalents temps plein (moyenne sur l'année). Elle a un produit d'exploitation de 8,73 M€. Le compte de résultat mentionne comme charges d'exploitation :
+
+* Achats de marchandises : 1,48 M€
+* Variation de stock : 40,8 k€
+* Impôts, taxes et versement assimilés : 173 k€
+* Salaires et traitements : 1,72 M€
+* Cotisations sociales : 588 k€
+* Amortissement : 3,07 M€
+* Autres achats et charges externes : 1,17 M€
+* Autres charges : 15,7 k€
+
+* Total : 8,26 M€
+
+Loulous étant une entreprise de location, elle amortie son matériel loué sur plusieurs années, d'où un amortissement élevé qui peut être vu comme un investissement. 
+
+Louloue emploi 70 équivalents temps plein avec un salaire moyen brut annuel de 19,7 k€ (après cotisation dite "patronale"), soit un salaire net moyen de 15,8 k€
+
+Après l'instauration d'un revenu de base à 1300 €, soit 15,6 k€ par an et par salarié, le salaire complémentaire net sera de 200 € par an et par salarié (15,8 k€ -15,6 k€), donc un total de 14 k€ de salaire net soit 17,5 k€ brut . La cotisation sur le salaire complémentaire sera donc de 7 k€.
+
+La valeur ajoutée s'élèvent à 8,73 - 2,71 - 3,07 = 2,95 M€. La cotisation sur la valeur ajoutée de 50 % est donc de 1,48 M €. Reprenons nos charges d'exploitation du nouveau compte de résultat :
+
+* Achats de marchandises : 1,48 M€
+* Variation de stock : 40,8 k€
+* Impôts, taxes et versement assimilés : 173 k€
+* Salaire complémentaire : 17,5 k€
+* Cotisation sur les salaires complémentaires : 7 k€
+* Cotisation sur la valeur ajoutée : 1,48 M€
+* Amortissement : 3,07 M€
+* Autres achats et charges externes : 1,17 M€
+* Autres charges : 15,7 k€
+
+* Total : 7,46 M€
+
+Différence avant/après : + 0,8 M€. L'entreprise est gagnante après l'instauration du revenu de base. Cette somme pourra être redistribuée sous forme d'une augmentation du salaire complémentaire. 
+
+Cas pratique 3 : très petite entreprise
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SuperTech est une entreprise en recherche et développement dans le domaine de l'électronique. Elle a un capital social de 8000 € et un chiffre d'affaire en 2015 de 58 k€. Elle emploi à titre exceptionnel un salarié. En 2015, elle a eu un salarié pendant 4 mois (1/3 salarié). Son chiffre d'affaire est composé à 93 % en services. En comptant reprise sur amortissements et provisions le total des produits d'exploitation est de 62,0 k€.
+
+* Achats de marchandises : 0,685 k€
+* Achats de matières premières : 5,66 k€
+* Variation de stock : - 0,489 k€
+* Charges externes : 8,82 k€
+* Impôts, taxes et versement assimilés : 2,01 k€
+* Salaires et traitements : 18,5 k€
+* Cotisations sociales : 7,99 k€
+* Amortissement : 5,05 k€
+* Autres charges : 1,39 k€
+
+* Total : 49,6 k€
+
+Le résultat d'exploitation est positif et s'élève à 12,4 €. Ce résultat correspond à la (faible) rémunération net du dirigeant.
+
+Le salarié à reçu 18,5 k€ de salaire brut sur 4 mois, soit 14,8 € net. En comptant 4 mois de revenue de base à 1,3 k€, on a 5,2 k€ au total. Le salaire complémentaire net sera alors de 9,6 k€, soit 12 k€ en brut. La cotisation sur le salaire complémentaire sera donc de 4,8 k€.
+
+La valeur ajoutée de l'entreprise est de : 62,0 - 16,0 k€ - 5,05 = 41,0 k€. L'entreprise devra donc une cotisation sur la valeur ajoutée 50 % de 20,5 k€. Reprenons nos "charges" après l'instauration d'un revenu de base : 
+
+* Achats de marchandises : 0,685 k€
+* Achats de matières premières : 5,66 k€
+* Varition de stock : - 0,489 k€
+* Charges externes : 8,82 k€
+* Impôts, taxes et versement assimilés : 2,01 k€
+* Salaire complémentaire : 12 k€
+* Cotisation sur les salaires complémentaires : 4,8 k€
+* Cotisation sur la valeur ajoutée : 20,5 k€
+* Amortissement : 5,05 k€
+* Autres charges : 1,39 k€
+
+* Total : 60,4 k€
+
+L'entreprise est perdante, le résultat d'exploitation ayant diminué d'un peu plus de 10 k€. Néanmoins, Le résultat étant le revenu de l'entrepreneur, il passe de 12,4 € de revenu à 17,2 € de revenu (revenu de base + nouveau résultat). Au final, l'entrepreneur est gagnant.
+
+
+Cas pratique 4 : grosse entreprise plus de 500 salariés
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tout le monde connait Google. Google possède en entreprise en SARL située en France avec comme raison social "Google France". Son capital social est de 7500 € et son chiffre d'affaire en 2015 est de 248 M€ en provenance exclusivement de Google Inc. Google France emploi 584 salariés. La reprise sur amortissements et provisions étant négligeable, le total des produits d'exploitation est également de 248 M€. Son bénéfice net est de 12,2 M€.
+
+Les charges d'exploitation s'élèvent à 225 M€ et se décomposent ainsi :
+
+* Charges externes : 74,2 M€
+* Impôts, taxes et versement assimilés : 7,28 M€
+* Salaires et traitements : 92,5 M€
+* Cotisations sociales : 38,6 M€
+* Amortissement : 11,6 M€
+* Dotation d'exploitation aux provisions : 1,00 M€
+* Autres charges : 59,8 k€
+
+* Total : 225 M€
+
+Google France emploi en 2015 584 salarié. Soit un salaire moyen brut de 158 k€ par salarié, ce qui est énorme. En net on a donc un salaire moyen de 126 k€. À coté le revenu de base est négligeable, mais calculons le salaire complémentaire net : 126 k€ - 15,6 k€ = 111 k€. Le total des salaires complémentaire net est donc de 64,9 M€, soit 81,1 M€ brut. En comptant 40 % de cotisation patronale, la cotisation sur le salaire complémentaire sera de 32,5 M€
+
+La valeur ajouté de Google France est de  : 248 - 74,2 - 12,6 = 161,2 M€. L'entreprise devra donc en cotisation sur la valeur ajoutée 50 % de 80,6 M€. Reprenons nos "charges" du nouveau compte de résultat :
+
+* Charges externes : 74,2 M€
+* Impôts, taxes et versement assimilés : 7,28 M€
+* Salaire complémentaire : 81,1 M€
+* Cotisation sur les salaires complémentaires : 32,5 M€
+* Cotisation sur la valeur ajoutée : 80,6 M €
+* Amortissement : 11,6 M€
+* Dotation d'exploitation aux provisions : 1,00 M€
+* Autres charges : 59,8 k€
+
+* Total : 288 M€
+
+Différence avant/après : - 63 M€. L'entreprise devient donc déficitaire de prés de 50 M €. Elle devra revoir à la baisse les salaires complémentaires de ses employés ou demander plus d'argent à Google Inc.
+
