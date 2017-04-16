@@ -1,7 +1,7 @@
 Un revenu de base par la cotisation sur la valeur ajoutée
 =========================================================
-Florent Kaisser
-Avril 2017
+Florent Kaisser <florent@kaisser.name>
+v2.1, Avril 2017:
 :Author Initials: FK
 :toc:
 :icons:
@@ -273,4 +273,3 @@ include::transition.csv[]
 
 
 include::biblio[]
-include::footer[]
