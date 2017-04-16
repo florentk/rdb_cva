@@ -88,7 +88,7 @@ Les autres branches de la sécurité sociale seront financé en grande partie pa
 
 C'est donc en demandant une cotisation de 50 % sur la valeur ajouté qu'on peut financer une revenu de base d'un montant d'un SMIC valorisé, d'allocations pour les enfant bien supérieur que aujourd’hui et une assurance maladie financé à la hauteur des besoins. La question est maintenant : demander 50 % de la valeur ajoutée à une entreprise, est-ce bien raisonnable ?
 
-D'un point de vu macro-économique, les salaires et cotisations représentaient en 2009 en moyenne 67 % de la VA totale. Avec un quart des entreprises qui y consacrent moins de 44 % de la VA ("Rapport INSEE : Partage de la valeur ajoutée, partage des profits et écarts de rémunérations en France"). La grosse majorité des TPE/PME seront donc favorisées. 
+D'un point de vu macro-économique, les salaires et cotisations représentaient en 2009 en moyenne 67 % de la VA totale. Avec un quart des entreprises qui y consacrent moins de 44 % de la VA <<COT09>>. La grosse majorité des TPE/PME seront donc favorisées. 
 
 Conséquences micro-économique sur les entreprises
 -------------------------------------------------
@@ -250,6 +250,27 @@ La valeur ajouté de Google France est de  : 248 - 74,2 - 12,6 = 161,2 M€. L'e
 * Total : 288 M€
 
 Différence avant/après : - 63 M€. L'entreprise devient donc déficitaire de prés de 50 M €. Elle devra revoir à la baisse les salaires complémentaires de ses employés ou demander plus d'argent à Google Inc.
+
+Mise en place progressive
+-------------------------
+
+Pour que les entreprises puissent s'adapter progressivement à la mise en place d'un revenu de base et à la nouvelle fiscalité associée, une mis en place progressive est possible. Je propose un transition en quatre étapes :
+
+La première étape consiste en la fusion des minimas sociaux par la mise en place d'un revenu de base à 550 €. Il est distribué de 18 à 55 ans (les aides de "pré-retraite" seront conservé) et est progressif selon les ressources du foyer avec un pivot au SMIC pour atteindre un total de 1300 € par adulte. Les allocations familiales seront remplacées par un revenu de base par enfant d'un montant de 110 € sans condition de ressource (20 % du revenu de base). La fiscalité reste inchangée et les allocations existantes maintenues pour éviter toute régression sociale.
+
+La seconde étape consiste en un revenu de base à 750 € par adulte jusqu'a sa mort et de 150 € par enfant. Une cotisation sur la valeur ajoutée est mise en place pour commencer à 25 % pour financer le revenu de base et l'assurance maladie. Toutes les réductions de cotisation sur les bas et moyen salaires seront supprimés, ainsi que les réductions d’impôts et les différents aides à l'emploi pour les entreprises. En contre-partie, l'entreprise pourra déduire le montant du revenu de base du salaire avec un salaire complémentaire minimum net de 550 € par mois quelque soit le volume horaire (excepté pour l’intérim). Tout adulte travaillant recevra donc au moins 1300 € par mois. Les différentes conventions collectives seront revues en conséquences pour éviter toute perte de revenu.
+
+La troisième étape et la quatrième étape consiste en une revalorisation du revenu de base et à une augmentation de la cotisation sur la valeur ajoutée. Respectivement 1000 € et 40 %, puis 1300 € et 50 %. Le salaire complémentaire minimum sera donc de 300 € puis 0 €. Le revenu de base par enfant de 200 € puis 260 €.
+
+.Transition en quatre étapes
+[format="csv",options="header",cols="3,4*1",width="80%",align="center"]
+|===================================================
+,1er étape,2nd étape,3éme étape, 4éme étape
+include::transition.csv[]
+|===================================================
+
+
+
 
 include::biblio[]
 include::footer[]
