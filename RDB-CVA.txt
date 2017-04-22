@@ -15,7 +15,7 @@ Introduction
 Quand j'ai pris connaissance du concept d'un revenu de base, il y a cela plus de 5 ans, j'ai très vite eu conscience de l'importance de cet outil. J'ai alors beaucoup lu sur le sujet et analysé les nombreuses versions existantes. Pour moi, un revenu de base ne doit pas être une simple simplification des minimas sociaux, mais un véritable outil pour changer notre rapport au travail et une protection sociale contre la précarité. J'ai très bien conscience des dégâts dans notre société de la politique néo-libérale menée depuis la fin des années 70 partout dans le monde et imposée souvent de manière très violente, à la fois par les pouvoirs en place et par la généralisation des nouvelles méthodes managériales dans les entreprises. 
 Pour combattre ces fléaux, il nous faut des propositions sociales fortes, positives, dans l'air de temps sans utiliser toute notre énergie à être sans arrêt sur la défensive. Ça ne sert à rien de vouloir réduire le taux de chômage, c'est une métrique obsolète et facilement manipulable. 
 
-En effet, il y a une manière très simple de réduire le chômage : favoriser le temps partiel mal payé à contrat court comme en Allemagne, en Angleterre ou aux État-unis. Cela inclut également l’augmentation des pseudo micro-entreprises liées aux nouvelles grandes plateformes sur Internet (Uberisation). Effectivement, davantage de personnes travaillent, mais la précarité augmente.  
+En effet, il y a une manière très simple de réduire le chômage : favoriser le temps partiel mal payé à contrat court comme en Allemagne, en Angleterre ou aux État-unis. Cela inclut également l’augmentation des pseudo micro-entreprises liées aux nouvelles grandes plate-formes sur Internet (Uberisation). Effectivement, davantage de personnes travaillent, mais la précarité augmente.  
 Dans une société où il y a de moins en moins d'emplois à plein temps dû à l'utilisation massive des machines, ce n'est pas le chiffre du chômage qu'il faut regarder, mais ceux de la précarité : salaire médian/minimum/maximum, taux de pauvreté, revenu moyen d'un foyer, reste à vivre, etc.
 Le revenu de base permet justement d'améliorer cet aspect et de ne plus se préoccuper des chiffres du chômage.
 
@@ -92,7 +92,7 @@ Nous devons garder une Sécurité Sociale. Je propose d'ailleurs qu'elle gère l
 
 Je propose également qu'une allocation chômage, en rapport avec le salaire complémentaire, soit conservée, sur le modèle existant, mais gérée par la Sécurité Sociale. Le financement sera uniquement assuré par une cotisation sur ce salaire complémentaire. Un travailleur perdant son emploi (ou une partie de son emploi par la mise en temps partiel imposée) touchera une allocation supplémentaire à son revenu de base.
 
-.Partage de la valeur ajouté
+.Partage de la valeur ajoutée
 image::graph/va.pdf[alt="graphique du partage de la valeur ajouté",float="right"]
 
 Côté financement, je propose que la sécurité sociale, avec sa nouvelle branche "revenu de base", soit financée à hauteur de 40 % du PIB (c'est à dire la somme des valeurs ajoutées). Avec un PIB à 2 180 milliards d'euro <<DEB16>>, la branche "revenu de base" aura un budget de 872 milliards d'euros. Par comparaison, le budget du régime général de la sécurité est de 344 milliard en 2015 <<WIK2>>. 
@@ -101,23 +101,23 @@ Selon l'INSEE, au 1er Janvier 2015, il y avait 14,8 millions d'enfants de moins 
 
 Les autres branches de la sécurité sociale seront financées en grande partie par un transfert sur le revenu de base (tous les revenus de remplacement inférieur à 1300 €). Pour le reste, une partie sera financée par les cotisations sur les salaires complémentaires selon les même taux qu'appliqués aujourd'hui, la taxe sur les drogues et produits causant des maladies, enfin, une cotisation supplémentaire sur la valeur ajoutée. Le taux de cette cotisation reste à déterminer, mais ne devrait pas dépasser les 10 %. 
 
-C'est donc en demandant une cotisation de 50 % sur la valeur ajoutée qu'on peut financer un revenu de base d'un montant d'un SMIC valorisé, d'allocations pour les enfants bien supérieurs qu'aujourd’hui et une assurance maladie financée à la hauteur des besoins. La question est maintenant : demander 50 % de la valeur ajoutée à une entreprise, est-ce bien raisonnable ?
+C'est donc en demandant une cotisation de 50 % sur la valeur ajoutée qu'on peut financer un revenu de base d'un montant d'un SMIC valorisé, d'allocations pour les enfants bien supérieures qu'aujourd’hui et une assurance maladie financée à la hauteur des besoins. La question est maintenant : demander 50 % de la valeur ajoutée à une entreprise, est-ce bien raisonnable ?
 
-D'un point de vu macro-économique, les salaires et cotisations représentaient en 2009 en moyenne 67 % de la VA totale. Avec un quart des entreprises qui y consacrent moins de 44 % de la VA <<COT09>>. La grosse majorité des TPE/PME seront donc favorisées. 
+D'un point de vue macro-économique, les salaires et cotisations représentaient en 2009 en moyenne 67 % de la VA totale. Avec un quart des entreprises qui y consacrent moins de 44 % de la VA <<COT09>>. La grosse majorité des TPE/PME seront donc favorisées. 
 
 [[microeco]]
-Conséquences micro-économique sur les entreprises
+Conséquences micro-économiques sur les entreprises
 -------------------------------------------------
 
-Nous avons jusqu'a présent montré comment financer un revenue de base à 1300 € par adulte et 260 € par enfant de manière macro-économique en regardant le PIB (somme des valeurs ajoutées) et comment prélever la cotisation aux entreprises. Maintenant nous allons étudier l'impact de cette nouvelle cotisation sur les entreprises, c'est à dire une approche micro-économique. Pour cela, j'ai récupéré des vrais comptes de bilans d'entreprises de différentes tailles. Pour la suite, il faut donc quelques notions de comptabilité et elle est donc d'avantage destinée à des chefs d'entreprise. C'est l’occasion aussi de montrer à un entrepreneur de TPE/PME qu'il a tout à y gagner et que c'est très concret. 
+Nous avons jusqu'à présent montré comment financer un revenu de base à 1300 € par adulte et 260 € par enfant de manière macro-économique en regardant le PIB (somme des valeurs ajoutées) et comment prélever la cotisation aux entreprises. Maintenant nous allons étudier l'impact de cette nouvelle cotisation sur les entreprises, c'est à dire une approche micro-économique. Pour cela, j'ai récupéré des vrais comptes de bilans d'entreprises de différentes tailles. Pour la suite, il faut donc quelques notions de comptabilité et elle est donc d'avantage destinée à des chefs d'entreprise. C'est l’occasion aussi de montrer à un entrepreneur de TPE/PME qu'il a tout à y gagner et que c'est très concret. 
 
-La fiscalité liée à l'instauration du revenu de base va influer sur deux lignes comptables : "Salaires et traitements" et "Cotisation sociale". Ces deux lignes serons remplacées par une ventilation sur trois lignes comptables : "Salaire complémentaire", "Cotisation sur les salaires complémentaires" et "Cotisation sur la valeur ajoutée".
+La fiscalité liée à l'instauration du revenu de base va influer sur deux lignes comptables : "Salaires et traitements" et "Cotisations sociales". Ces deux lignes serons remplacées par une ventilation sur trois lignes comptables : "Salaire complémentaire", "Cotisation sur les salaires complémentaires" et "Cotisation sur la valeur ajoutée".
 
 Nous définissons quelques règles de calculs. La valeur ajoutée est calculée comme le produit d'exploitation auquel nous soustrayons les différentes dotations (essentiellement l'amortissement), les achats, stocks et autres charges (externes et divers) <<BGE>>. Nous ne soustrayons donc pas les impôts, taxes et versements assimilés actuels, les salaires et traitements, ainsi que les "charges sociales" (que nous appelons volontairement cotisations sociales).
 
 Nous considérons que le revenu des salariés ne changerons pas : revenu de base + salaire complémentaire net devra être égal au salaire actuel net. Pour nos calculs, nous considérons le salaire net comme étant 80 % du salaire brut (après "charge patronale"). Les "charges patronales" s'élèvent à 40 % dur salaire brut <<BGE>>. Nous gardons ce taux pour la cotisation sur les salaires complémentaires que nous conservons dans notre proposition afin de financer la sécurité sociale.
 
-Le nom des entreprises ont été changé pour garantir l’anonymat excepté pour la dernière entreprise (très connue). Les montants sont arrondis à trois chiffres significatifs et exprimés soit en k€ (milliers d'euros) ou M€ (millions d'euros).
+Le nom des entreprises ont été changés pour garantir l’anonymat excepté pour la dernière entreprise (très connue). Les montants sont arrondis à trois chiffres significatifs et exprimés soit en k€ (milliers d'euros) ou M€ (millions d'euros).
 
 Cas pratique 1 : petite entreprise 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -137,7 +137,7 @@ Les charges d'exploitation s'élèvent à 1,61 M€ et se décomposent ainsi :
 
 * Total : 1,61 M€
 
-Le restaurant emploie 15 salariés ce qui donne un salaire moyen brut de 31,8 k€, soit un salaire nets moyen de 25,4 k€. Après l'instauration d'un revenu de base, le salaire complémentaire net moyen annuel sera de 9,8 k€ par salarié, soit au total 147 k€ de salaires net et donc 184 k€ de salaires bruts. La cotisation sur le salaire complémentaire sera donc de 73,6 k€.
+Le restaurant emploie 15 salariés ce qui donne un salaire moyen brut de 31,8 k€, soit un salaire net moyen de 25,4 k€. Après l'instauration d'un revenu de base, le salaire complémentaire net moyen annuel sera de 9,8 k€ par salarié, soit au total 147 k€ de salaires nets et donc 184 k€ de salaires bruts. La cotisation sur le salaire complémentaire sera donc de 73,6 k€.
 
 La valeur ajoutée de l'entreprise est de : 1,72 M€ - 798 k€ - 118 k€ = 804 k€. L'entreprise devra donc une cotisation sur la valeur ajoutée 50 % de 402 k€. Reprenons nos "charges" après l’instauration d'un revenu de base :
 
@@ -172,7 +172,7 @@ Louloue est une entreprise de location avec 70 équivalents temps pleins (moyenn
 
 * Total : 8,26 M€
 
-Loulous étant une entreprise de location, elle amortit son matériel loué sur plusieurs années, d'où un amortissements élevé qui peut être vu comme un investissement. 
+Loulous étant une entreprise de location, elle amortit son matériel loué sur plusieurs années, d'où un amortissement élevé qui peut être vu comme un investissement. 
 
 Louloue emploi 70 équivalents temps plein avec un salaire moyen brut annuel de 19,7 k€ (après cotisation dite "patronale"), soit un salaire net moyen de 15,8 k€
 
@@ -198,7 +198,7 @@ Différence avant/après : + 0,8 M€. L'entreprise est gagnante après l'instau
 Cas pratique 3 : très petite entreprise
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SuperTech est une entreprise en recherche et développement dans le domaine de l'électronique. Elle a un capital social de 8000 € et un chiffre d'affaires en 2015 de 58 k€. Elle emploi à titre exceptionnel un salarié. En 2015, elle a eu un salarié pendant 4 mois (1/3 salarié). Son chiffre d'affaire est composé à 93 % en services. En comptant reprise sur amortissements et provisions le total des produits d'exploitation est de 62,0 k€.
+SuperTech est une entreprise en recherche et développement dans le domaine de l'électronique. Elle a un capital social de 8000 € et un chiffre d'affaires en 2015 de 58 k€. Elle emploie à titre exceptionnel un salarié. En 2015, elle a eu un salarié pendant 4 mois (1/3 salarié). Son chiffre d'affaires est composé à 93 % en services. En comptant reprise sur amortissements et provisions le total des produits d'exploitation est de 62,0 k€.
 
 * Achats de marchandises : 0,685 k€
 * Achats de matières premières : 5,66 k€
@@ -271,18 +271,18 @@ Différence avant/après : - 63 M€. L'entreprise devient donc déficitaire de 
 Mise en place progressive
 -------------------------
 
-Pour que les entreprises puissent s'adapter progressivement à la mise en place d'un revenu de base et à la nouvelle fiscalité associée, une mis en place progressive est possible. Je propose un transition en quatre étapes :
+Pour que les entreprises puissent s'adapter progressivement à la mise en place d'un revenu de base et à la nouvelle fiscalité associée, une mise en place progressive est possible. Je propose une transition en quatre étapes :
 
-La première étape consiste en la fusion des minimas sociaux par la mise en place d'un revenu de base à 550 €. Il est distribué de 18 à 55 ans (les aides de "pré-retraite" seront conservé) et est progressif selon les ressources du foyer avec un pivot au SMIC pour atteindre un total de 1300 € par adulte. Les allocations familiales seront remplacées par un revenu de base par enfant d'un montant de 110 € sans condition de ressource (20 % du revenu de base). La fiscalité reste inchangée et les allocations existantes maintenues pour éviter toute régression sociale.
+La première étape consiste en la fusion des minimas sociaux par la mise en place d'un revenu de base à 550 €. Il est distribué de 18 à 55 ans (les aides de "pré-retraite" seront conservées) et est progressif selon les ressources du foyer avec un pivot au SMIC pour atteindre un total de 1300 € par adulte. Les allocations familiales seront remplacées par un revenu de base par enfant d'un montant de 110 € sans condition de ressources (20 % du revenu de base). La fiscalité reste inchangée et les allocations existantes maintenues pour éviter toute régression sociale.
 
-La seconde étape consiste en un revenu de base à 750 € par adulte jusqu'a sa mort et de 150 € par enfant. Une cotisation sur la valeur ajoutée est mise en place pour commencer à 25 % pour financer le revenu de base et l'assurance maladie. Toutes les réductions de cotisation sur les bas et moyen salaires seront supprimés, ainsi que les réductions d’impôts et les différents aides à l'emploi pour les entreprises. En contre-partie, l'entreprise pourra déduire le montant du revenu de base du salaire avec un salaire complémentaire minimum net de 550 € par mois quelque soit le volume horaire (excepté pour l’intérim). Tout adulte travaillant recevra donc au moins 1300 € par mois. Les différentes conventions collectives seront revues en conséquences pour éviter toute perte de revenu.
+La deuxième étape consiste en un revenu de base à 750 € par adulte jusqu'à sa mort et de 150 € par enfant. Une cotisation sur la valeur ajoutée est mise en place pour commencer à 25 % pour financer le revenu de base et l'assurance maladie. Toutes les réductions de cotisation sur les bas et moyens salaires seront supprimées, ainsi que les réductions d’impôts et les différentes aides à l'emploi pour les entreprises. En contre-partie, l'entreprise pourra déduire le montant du revenu de base du salaire avec un salaire complémentaire minimum net de 550 € par mois quelque soit le volume horaire (excepté pour l’intérim). Tout adulte travaillant recevra donc au moins 1300 € par mois. Les différentes conventions collectives seront revues en conséquence pour éviter toute perte de revenu.
 
-La troisième étape et la quatrième étape consiste en une revalorisation du revenu de base et à une augmentation de la cotisation sur la valeur ajoutée. Respectivement 1000 € et 40 %, puis 1300 € et 50 %. Le salaire complémentaire minimum sera donc de 300 € puis 0 €. Le revenu de base par enfant de 200 € puis 260 €.
+La troisième étape et la quatrième étape consistent en une revalorisation du revenu de base et à une augmentation de la cotisation sur la valeur ajoutée. Respectivement 1000 € et 40 %, puis 1300 € et 50 %. Le salaire complémentaire minimum sera donc de 300 € puis 0 €. Le revenu de base par enfant de 200 € puis 260 €.
 
 .Transition en quatre étapes
 [format="csv",options="header",cols="3,4*1",width="80%",align="center"]
 |===================================================
-,1er étape,2nd étape,3éme étape, 4éme étape
+,1er étape,2éme étape,3éme étape, 4éme étape
 include::transition.csv[]
 |===================================================
 

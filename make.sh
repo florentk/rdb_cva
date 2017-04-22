@@ -1,5 +1,5 @@
 #asciidoc -a icons -a numbered -a disable-javascript  RDB-CVA.txt
-#lowriter --invisible --convert-to odt RDB-CVA.html 
+#libreoffice --headless --convert-to odt:"OpenDocument Text Flat XML" RDB-CVA.html
 asciidoc RDB-CVA.txt
 asciidoc -b "docbook45" RDB-CVA.txt
 dblatex RDB-CVA.xml
