@@ -15,7 +15,7 @@ Introduction
 Quand j'ai pris connaissance du concept d'un revenu de base, il y a cela plus de 5 ans, j'ai très vite eu conscience de l'importance de cet outil. J'ai alors beaucoup lu sur le sujet et analysé les nombreuses versions existantes. Pour moi, un revenu de base ne doit pas être une simple simplification des minimas sociaux, mais un véritable outil pour changer notre rapport au travail et une protection sociale contre la précarité. J'ai très bien conscience des dégâts dans notre société de la politique néo-libérale menée depuis la fin des années 70 partout dans le monde et imposée souvent de manière très violente, à la fois par les pouvoirs en place et par la généralisation des nouvelles méthodes managériales dans les entreprises. 
 Pour combattre ces fléaux, il nous faut des propositions sociales fortes, positives, dans l'air de temps sans utiliser toute notre énergie à être sans arrêt sur la défensive. Ça ne sert à rien de vouloir réduire le taux de chômage, c'est une métrique obsolète et facilement manipulable. 
 
-En effet, il y a une manière très simple de réduire le chômage : favoriser le temps partiel mal payé à contrat court comme en Allemagne, en Angleterre ou aux État-unis. Cela inclut également l’augmentation des pseudo micro-entreprises liées aux nouvelles grandes plate-formes sur Internet (Uberisation). Effectivement, davantage de personnes travaillent, mais la précarité augmente.  
+En effet, il y a une manière très simple de réduire le chômage : favoriser le temps partiel mal payé à contrat court comme en Allemagne, en Angleterre ou aux États-unis. Cela inclut également l’augmentation des pseudo micro-entreprises liées aux nouvelles grandes plate-formes sur Internet (Uberisation). Effectivement, davantage de personnes travaillent, mais la précarité augmente.  
 Dans une société où il y a de moins en moins d'emplois à plein temps dû à l'utilisation massive des machines, ce n'est pas le chiffre du chômage qu'il faut regarder, mais ceux de la précarité : salaire médian/minimum/maximum, taux de pauvreté, revenu moyen d'un foyer, reste à vivre, etc.
 Le revenu de base permet justement d'améliorer cet aspect et de ne plus se préoccuper des chiffres du chômage.
 
@@ -95,11 +95,11 @@ Je propose également qu'une allocation chômage, en rapport avec le salaire com
 .Partage de la valeur ajoutée <<COT09>>
 image::graph/va.pdf[alt="graphique du partage de la valeur ajouté",float="right"]
 
-Côté financement, je propose que la sécurité sociale, avec sa nouvelle branche "revenu de base", soit financée à hauteur de 40 % du PIB (c'est à dire la somme des valeurs ajoutées). Avec un PIB à 2 180 milliards d'euro <<DEB16>>, la branche "revenu de base" aura un budget de 872 milliards d'euros. Par comparaison, le budget du régime général de la sécurité est de 344 milliard en 2015 <<WIK2>>. 
+Côté financement, je propose que la sécurité sociale, avec sa nouvelle branche "revenu de base", soit financée à hauteur de 40 % du PIB (c'est à dire la somme des valeurs ajoutées). Avec un PIB à 2 180 milliards d'euro <<DEB16>>, la branche "revenu de base" aura un budget de 872 milliards d'euros. Par comparaison, le budget du régime général de la sécurité est de 344 milliards en 2015 <<WIK2>>. 
 
 Selon l'INSEE, au 1er janvier 2015, il y avait 14,8 millions d'enfants de moins de 18 ans et 51,7 millions d'adultes <<INS17>>. En considérant que l'on donne 1/5 du revenu de base par enfant et qu'on consacre 872 milliards d'euro au financement du revenu de base, nous avons bien un revenu de base par adulte et par mois d'environ 1300 euros et 260 euros par enfant.
 
-Les autres branches de la sécurité sociale seront financées en grande partie par un transfert sur le revenu de base (tous les revenus de remplacement inférieur à 1300 €). Pour le reste, une partie sera financée par les cotisations sur les salaires complémentaires selon les même taux qu'appliqués aujourd'hui, la taxe sur les drogues et produits causant des maladies, enfin, une cotisation supplémentaire sur la valeur ajoutée. Le taux de cette cotisation reste à déterminer, mais ne devrait pas dépasser les 10 %. 
+Les autres branches de la sécurité sociale seront financées en grande partie par un transfert sur le revenu de base (tous les revenus de remplacement inférieur à 1300 €). Pour le reste, une partie sera financée par les cotisations sur les salaires complémentaires selon les mêmes taux qu'appliqués aujourd'hui, la taxe sur les drogues et produits causant des maladies, enfin, une cotisation supplémentaire sur la valeur ajoutée. Le taux de cette cotisation reste à déterminer, mais ne devrait pas dépasser les 10 %. 
 
 C'est donc en demandant une cotisation de 50 % sur la valeur ajoutée qu'on peut financer un revenu de base d'un montant d'un SMIC valorisé, d'allocations pour les enfants bien supérieures qu'aujourd’hui et une assurance maladie financée à la hauteur des besoins. La question est maintenant : demander 50 % de la valeur ajoutée à une entreprise, est-ce bien raisonnable ?
 
@@ -115,7 +115,7 @@ La fiscalité liée à l'instauration du revenu de base va influer sur deux lign
 
 Nous définissons quelques règles de calculs. La valeur ajoutée est calculée comme le produit d'exploitation auquel nous soustrayons les différentes dotations (essentiellement l'amortissement), les achats, stocks et autres charges (externes et divers) <<BGE>>. Nous ne soustrayons donc pas les impôts, taxes et versements assimilés actuels, les salaires et traitements, ainsi que les "charges sociales" (que nous appelons volontairement cotisations sociales).
 
-Nous considérons que le revenu des salariés ne changerons pas : revenu de base + salaire complémentaire net devra être égal au salaire actuel net. Pour nos calculs, nous considérons le salaire net comme étant 80 % du salaire brut (après "charge patronale"). Les "charges patronales" s'élèvent à 40 % dur salaire brut <<BGE>>. Nous gardons ce taux pour la cotisation sur les salaires complémentaires que nous conservons dans notre proposition afin de financer la sécurité sociale.
+Nous considérons que le revenu des salariés ne changera pas : revenu de base + salaire complémentaire net devra être égal au salaire actuel net. Pour nos calculs, nous considérons le salaire net comme étant 80 % du salaire brut (après "charge patronale"). Les "charges patronales" s'élèvent à 40 % dur salaire brut <<BGE>>. Nous gardons ce taux pour la cotisation sur les salaires complémentaires que nous conservons dans notre proposition afin de financer la sécurité sociale.
 
 Le nom des entreprises ont été changés pour garantir l’anonymat excepté pour la dernière entreprise (très connue). Les montants sont arrondis à trois chiffres significatifs et exprimés soit en k€ (milliers d'euros) ou M€ (millions d'euros).
 
@@ -172,7 +172,7 @@ Louloue est une entreprise de location avec 70 équivalents temps pleins (moyenn
 
 * Total : 8,26 M€
 
-Loulous étant une entreprise de location, elle amortit son matériel loué sur plusieurs années, d'où un amortissement élevé qui peut être vu comme un investissement. 
+Louloue étant une entreprise de location, elle amortit son matériel loué sur plusieurs années, d'où un amortissement élevé qui peut être vu comme un investissement. 
 
 Louloue emploi 70 équivalents temps plein avec un salaire moyen brut annuel de 19,7 k€ (après cotisation dite "patronale"), soit un salaire net moyen de 15,8 k€
 
@@ -212,7 +212,7 @@ SuperTech est une entreprise en recherche et développement dans le domaine de l
 
 * Total : 49,6 k€
 
-Le résultat d'exploitation est positif et s'élève à 12,4 €. Ce résultat correspond à la (faible) rémunération net du dirigeant.
+Le résultat d'exploitation est positif et s'élève à 12,4 €. Ce résultat correspond à la (faible) rémunération nette du dirigeant.
 
 Le salarié a reçu 18,5 k€ de salaire brut sur 4 mois, soit 14,8 € net. En comptant 4 mois de revenu de base à 1,3 k€, on a 5,2 k€ au total. Le salaire complémentaire net sera alors de 9,6 k€, soit 12 k€ en brut. La cotisation sur le salaire complémentaire sera donc de 4,8 k€.
 
